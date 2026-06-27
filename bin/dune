@@ -1,0 +1,4 @@
+(executable
+ (public_name plan)
+ (name main)
+ (libraries plan unix graphics))
